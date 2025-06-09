@@ -5,6 +5,7 @@
 - PyCharm installed
 ### Step 1
 - We are going to import some libraries and create a password storage dictionary.
+
  ![image](https://github.com/user-attachments/assets/1bbcf70e-99c8-4e16-8986-5e5aaf449590)
 
 Hashlib brings in Python's built-in library for hashing algorithms, and getpass prompts the user to enter a password without displaying it on the screen. Then we create a dictionary to store the credentials.
